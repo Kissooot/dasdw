@@ -1,0 +1,201 @@
+ #mango {
+	background-image: url(https://wallpaperboat.com/wp-content/uploads/2020/06/03/42361/aesthetic-anime-04.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100%
+}
+nav {
+	float: right;
+	list-style: none;
+	margin-top: 20px;
+}
+nav a {
+	display: inline-block;
+}
+nav a{
+	font-family: bold;
+	text-decoration: none;
+	color: solid black;
+	padding: 10px 20px;
+	border: 1px solid groove;
+	transition: 0.6s ease;
+}
+nav a:hover, a:active {
+	background-color: snow;
+
+}
+div.me {
+	text-indent: 2%;
+	margin: auto;
+  	width: 35%;
+  	height: 20%;
+ 	border: 2px solid black;
+  	background-color: rgb(204, 204, 255, .6);
+  	padding: 10px;
+}
+h1 {
+	margin: auto;
+	text-align: center;
+	border-radius: 100px;
+	border: 2px solid black;
+	background-color: rgb(204, 204, 255, .6);
+	width: 50%;
+}	
+#p4 {
+	font-family: verdana;
+	border-radius: 50px;
+	border: 2px solid black;
+	background-color: rgb(204, 204, 255, .6);
+ 	padding: 10px;
+}
+#apple {
+	background-image: url(https://wallpapercave.com/wp/wp5493892.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100%
+}
+nav {
+	float: right;
+	list-style: none;
+	margin-top: 20px;
+}
+nav a {
+	display: inline-block;
+}
+nav a {
+	font-family: bold;
+	text-decoration: none;
+	color: solid black;
+	padding: 10px 20px;
+	border: 1px solid groove;
+	transition: 0.6s ease;
+}
+nav a:hover {
+	background-color: snow;
+	color: #000;
+}
+div.Elem {
+	text-indent: 2%;
+	margin: auto;
+  	width: 35%;
+  	height: 20%;
+ 	border: 2px solid black;
+  	background-color: rgb(204, 204, 255, .6);
+  	padding: 10px;
+}
+h1 {
+	margin: auto;
+	text-align: center;
+	border-radius: 100px;
+	border: 2px solid black;
+	background-color: rgb(204, 204, 255, .6);
+	width: 50%;
+}	
+#p1 {
+	font-family: verdana;
+	border-radius: 50px;
+	border: 2px solid black;
+	background-color: rgb(204, 204, 255, .6);
+ 	padding: 10px;
+}
+#orange {
+	background-image: url(https://wallpaperaccess.com/full/1217368.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100%
+}
+nav {
+	float: right;
+	list-style: none;
+	margin-top: 20px;
+}
+nav a {
+	display: inline-block;
+}
+nav a {
+	font-family: bold;
+	text-decoration: none;
+	color: solid black;
+	padding: 10px 20px;
+	border: 1px solid groove;
+	transition: 0.6s ease;
+}
+nav a:hover {
+	background-color: snow;
+	color: #000;
+}
+div.JHS {
+	text-indent: 2%;
+	margin: auto;
+  	width: 35%;
+  	height: 20%;
+ 	border: 2px solid black;
+  	background-color: rgb(204, 204, 255, .6);
+  	padding: 10px;
+}
+h1 {
+	margin: auto;
+	text-align: center;
+	border-radius: 100px;
+	border: 2px solid black;
+	background-color: rgb(204, 204, 255, .6);
+	width: 50%;
+}
+#p2 {
+	font-family: verdana;
+	border-radius: 50px;
+	border: 2px solid black;
+	background-color: rgb(204, 204, 255, .6);
+ 	padding: 10px;
+}
+#grapes {
+	background-image: url(https://wallpapers.com/images/hd/orange-sunset-anime-aesthetic-rn64zx8fmsrfafyl.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100%
+}
+nav {
+	float: right;
+	list-style: none;
+	margin-top: 20px;
+}
+nav a {
+	display: inline-block;
+}
+nav a {
+	font-family: bold;
+	text-decoration: none;
+	color: solid black;
+	padding: 10px 20px;
+	border: 1px solid groove;
+	transition: 0.6s ease;
+	background-color: snow;
+}
+nav a:hover {
+	background-color: snow;
+	color: #000;
+}
+div.SHS {
+	text-indent: 2%;
+	margin: auto;
+  	width: 35%;
+  	height: 20%;
+ 	border: 2px solid black;
+  	background-color: rgb(204, 204, 255, .6);
+  	padding: 10px;
+}
+h1 {
+	margin: auto;
+	text-align: center;
+	border-radius: 100px;
+	border: 2px solid black;
+	background-color: rgb(204, 204, 255, .6);
+	width: 50%;
+}	
+#p3 {
+	font-family: verdana;
+	border-radius: 50px;
+	border: 2px solid black;
+	background-color: rgb(204, 204, 255, .6);
+ 	padding: 10px;
+}
